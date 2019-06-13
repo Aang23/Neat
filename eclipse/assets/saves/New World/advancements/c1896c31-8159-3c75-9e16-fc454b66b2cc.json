@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-06-13 18:21:52 +0200",
+      "river": "2019-06-13 18:21:57 +0200"
+    },
+    "done": false
+  }
+}
